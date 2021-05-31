@@ -1,4 +1,4 @@
-## Supermarket Apllicaton
+## Supermarket Applicaton
 
 
 ### Description
